@@ -1,0 +1,26 @@
+TASK 2 - SALES DATA ANALYSIS FINDINGS
+
+1. Total Sales:
+Write the total sales obtained from the Python output.
+
+2. Average Order Value:
+Write the average order value obtained from the Python output.
+
+3. Top Products:
+Write the top 3 products from the Python output.
+
+4. Sales by Category:
+Electronics:
+Furniture:
+Accessories:
+
+5. Sales by Region:
+South:
+West:
+North:
+East:
+
+6. Key Findings:
+- Write which category generated the highest sales.
+- Write which region generated the highest sales.
+- Write which product generated the highest sales.

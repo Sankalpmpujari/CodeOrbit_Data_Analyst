@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Customer,Product,Category,Quantity,Unit_Price,Region
+ORD001,2026-01-05,Aarav,Laptop,Electronics,2,55000,West
+ORD002,2026-01-07,Priya,Mouse,Accessories,3,800,North
+ORD003,2026-01-10,Rahul,Keyboard,Accessories,2,1500,South
+ORD004,2026-01-12,Sneha,Monitor,Electronics,1,14000,East
+ORD005,2026-01-15,Vikram,Office Chair,Furniture,2,8500,West
+ORD006,2026-01-18,Ananya,Laptop,Electronics,1,55000,North
+ORD007,2026-01-20,Rohan,Desk,Furniture,1,12000,South
+ORD008,2026-01-22,Neha,Headphones,Electronics,4,2500,East
+ORD009,2026-01-25,Aarav,Mouse,Accessories,5,800,West
+ORD010,2026-01-28,Priya,Laptop,Electronics,1,55000,North
+ORD011,2026-02-02,Rahul,Monitor,Electronics,2,14000,South
+ORD012,2026-02-05,Sneha,Keyboard,Accessories,3,1500,East
+ORD013,2026-02-08,Vikram,Desk,Furniture,2,12000,West
+ORD014,2026-02-11,Ananya,Office Chair,Furniture,1,8500,North
+ORD015,2026-02-14,Rohan,Laptop,Electronics,2,55000,South
+ORD016,2026-02-17,Neha,USB Cable,Accessories,5,500,East
+ORD017,2026-02-20,Aarav,Monitor,Electronics,1,14000,West
+ORD018,2026-02-23,Priya,Headphones,Electronics,3,2500,North
+ORD019,2026-02-26,Rahul,Laptop,Electronics,1,55000,South
+ORD020,2026-03-01,Sneha,Mouse,Accessories,4,800,East
+ORD021,2026-03-04,Vikram,Keyboard,Accessories,2,1500,West
+ORD022,2026-03-07,Ananya,Desk,Furniture,1,12000,North
+ORD023,2026-03-10,Rohan,Office Chair,Furniture,3,8500,South
+ORD024,2026-03-13,Neha,Laptop,Electronics,1,55000,East
+ORD025,2026-03-16,Aarav,Monitor,Electronics,2,14000,West
+ORD026,2026-03-19,Priya,USB Cable,Accessories,6,500,North
+ORD027,2026-03-22,Rahul,Headphones,Electronics,2,2500,South
+ORD028,2026-03-25,Sneha,Laptop,Electronics,1,55000,East
+ORD029,2026-03-28,Vikram,Mouse,Accessories,3,800,West
+ORD030,2026-03-30,Ananya,Keyboard,Accessories,4,1500,North
