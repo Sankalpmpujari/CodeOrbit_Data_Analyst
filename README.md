@@ -1,12 +1,12 @@
 # CodeOrbit Tech - Data Analyst Internship
 
-## Project: Sales Data Analysis
+ Project: Sales Data Analysis
 
 This project was completed as part of the CodeOrbit Tech Data Analyst Internship.
 
-## Tasks Completed
+Tasks Completed
 
-### Task 1 - Data Cleaning
+ Task 1 - Data Cleaning
 - Loaded the sales dataset using Python Pandas.
 - Checked missing values.
 - Checked duplicate records.
@@ -16,7 +16,7 @@ This project was completed as part of the CodeOrbit Tech Data Analyst Internship
 - Created a Sales column.
 - Saved the cleaned dataset.
 
-### Task 2 - Sales Data Analysis
+ Task 2 - Sales Data Analysis
 The sales dataset was analyzed using Pandas.
 
 The following were analyzed:
@@ -27,7 +27,7 @@ The following were analyzed:
 - Sales by Category
 - Sales by Region
 
-### Task 3 - Dashboard Creation
+ Task 3 - Dashboard Creation
 
 An Excel dashboard was created containing:
 - Total Sales
@@ -35,7 +35,7 @@ An Excel dashboard was created containing:
 - Sales by Category
 - Sales by Region
 
-## Technologies Used
+ Technologies Used
 
 - Python
 - Pandas
@@ -43,7 +43,7 @@ An Excel dashboard was created containing:
 - Microsoft Excel
 - VS Code
 
-## Project Files
+ Project Files
 
 - `sales_data.csv` - Original dataset
 - `cleaned_sales_data.csv` - Cleaned dataset
@@ -51,3 +51,13 @@ An Excel dashboard was created containing:
 - `task2_analysis.py` - Sales analysis code
 - `task2_findings.txt` - Analysis findings
 - `task3_dashboard.xlsx` - Excel dashboard
+
+Setup Instructions
+
+1. Install Python 3.12 or above.
+2. Clone this repository.
+3. Open the project folder in VS Code.
+4. Install required libraries:
+
+```bash
+pip install pandas numpy openpyxl matplotlib
