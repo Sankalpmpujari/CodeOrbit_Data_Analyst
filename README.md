@@ -61,3 +61,28 @@ Setup Instructions
 
 ```bash
 pip install pandas numpy openpyxl matplotlib
+
+ Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Data cleaning using Python
+- Working with Pandas
+- Sales analysis
+- Excel dashboard creation
+- Data visualization
+- Git and GitHub
+
+---
+
+ GitHub Repository
+
+https://github.com/Sankalpmpujari/CodeOrbit_Data_Analyst
+
+---
+
+ Author
+
+  Sankalp Pujari
+
+B.Tech Computer Science and Engineering
